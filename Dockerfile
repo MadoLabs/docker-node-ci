@@ -1,4 +1,5 @@
-FROM node:9.2.1
+FROM node:9.4.0-stretch
+
 
 ENV PYTHON_PIP_VERSION 9.0.1
 ENV AWS_CLI_VERSION 1.14.7
